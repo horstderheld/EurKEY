@@ -28,8 +28,8 @@ xkb_symbols "basic"  {
         key <AC07> { [              j,                 J,               uacute,               Uacute ] };
         key <AC08> { [              k,                 K,                U0133,                U0132 ] };
         key <AC09> { [              l,                 L,               oslash,               Oslash ] };
-        key <AC10> { [      semicolon,             colon,       dead_diaeresis,       periodcentered ] };
-        key <AC11> { [     apostrophe,          quotedbl,           dead_acute,               degree ] };
+        key <AC10> { [      semicolon,             colon,               degree,       periodcentered ] };
+        key <AC11> { [     apostrophe,          quotedbl,           dead_acute,       dead_diaeresis ] };
         key <AD01> { [              q,                 Q,                   ae,                   AE ] };
         key <AD02> { [              w,                 W,                aring,                Aring ] };
         key <AD03> { [              e,                 E,           ediaeresis,           Ediaeresis ] };
